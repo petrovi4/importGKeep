@@ -1,0 +1,28 @@
+{
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  },
+  "name": "importgkeep",
+  "version": "1.0.0",
+  "description": "Import Apple notes to Google Keep",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/petrovi4/importGKeep.git"
+  },
+  "keywords": [
+    "notes",
+    "keep",
+    "google",
+    "apple"
+  ],
+  "author": "tenseman",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/petrovi4/importGKeep/issues"
+  },
+  "homepage": "https://github.com/petrovi4/importGKeep#readme"
+}
